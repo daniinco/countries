@@ -180,7 +180,7 @@
 {"code": "TZ", "name": "Tanzania", "capital": "Dodoma", "flag": "https://ia802609.us.archive.org/19/items/CountryFlags/tz.png", "shape": "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/170.png"},
 {"code": "UA", "name": "Ukraine", "capital": "Kyiv", "flag": "https://ia802609.us.archive.org/19/items/CountryFlags/ua.png", "shape": "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/174.png"},
 {"code": "UG", "name": "Uganda", "capital": "Kampala", "flag": "https://ia802609.us.archive.org/19/items/CountryFlags/ug.png", "shape": "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/80.png"},
-{"code": "US", "name": "United States", "capital": "Washington", "flag": "https://archive.org/details/CoufntryFlags/us.png", "shape": "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/137.png"},
+{"code": "US", "name": "United States", "capital": "Washington", "flag": "flag", "shape": "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/137.png"},
 {"code": "UY", "name": "Uruguay", "capital": "Montevideo", "flag": "https://ia802609.us.archive.org/19/items/CountryFlags/uy.png", "shape": "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/140.png"},
 {"code": "UZ", "name": "Uzbekistan", "capital": "Tashkent", "flag": "https://ia802609.us.archive.org/19/items/CountryFlags/uz.png", "shape": "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/73.png"},
 {"code": "VA", "name": "Vatican", "capital": "Vatican City", "flag": "https://ia802609.us.archive.org/19/items/CountryFlags/va.png", "shape": "https://www.worldplacestour.com/sites/worldplacestour/files/cshapes/239.png"},
